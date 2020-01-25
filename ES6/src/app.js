@@ -4,7 +4,7 @@ import itemCtrl from './item';
 
 
 class App {
-
+    
     selector = UICtrl.getUISelectors();
 
     loadEventListener() {
